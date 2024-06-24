@@ -1,2 +1,4 @@
-importScripts("https://cdn.npub.pro/index.js");
-self.nostrSite.startSW();
+
+    importScripts("https://cdn.npubpro.com/index.js");
+    self.nostrSite.startSW();
+  
